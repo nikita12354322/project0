@@ -18,7 +18,7 @@ def game_core_v2(number: int = 1) -> int:
         if average_number == number:
             break  # выход из цикла если угадали
         elif number > average_number:
-            start = average_number  # перезаписываем переменную start
+            start = average_number  # перезаписываем переменную start,чтобы уменьшить диапазон поиска числа => меньше
         else:
             stop = average_number # перезаписываем переменную high
 
@@ -41,5 +41,6 @@ def score_game(random_predict) -> int:
 
     score = int(np.mean(count_ls))
     print(f"Ваш алгоритм угадывает число в среднем за: {score} попытки")
-print('Run benchmarking for game_core_v2: ', end='')
-score_game(game_core_v2)
+if __name__ == "__main__":
+    # RUN
+    score_game(game_core_v2)
