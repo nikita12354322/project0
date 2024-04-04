@@ -1,14 +1,14 @@
  # Проект 0. Угадай число
  ## Оглавление 
- [1.Описание проекта ]()
- [2.Какой кейс решаем?]()
- [3.Краткая информация о данных]()
- [4.Этапы работы над проектом]()
- [Результат]()
- [Выводы]()
+ [1.Описание проекта ](https://github.com/nikita12354322/app/blob/main/project1/README.md#Оглавление)
+ [2.Какой кейс решаем?](https://github.com/nikita12354322/app/blob/main/project1/README.md#Какой-кейс-решаем)
+ [3.Краткая информация о данных](https://github.com/nikita12354322/app/blob/main/project1/README.md#Краткая-информация-о-данных)
+ [4.Этапы работы над проектом](https://github.com/nikita12354322/app/blob/main/project1/README.md#Этапы-работы-над-проектом)
+ [Результат](https://github.com/nikita12354322/app/blob/main/project1/README.md#Результат)
+ [Выводы](https://github.com/nikita12354322/app/blob/main/project1/README.md#Выводы)
 ### Описание проекта
  Угадать загаданное число меньше чем за 20 попыток 
- :arrow_up:[к оглавлению]()
+ :arrow_up:[к оглавлению](https://github.com/nikita12354322/app/blob/main/project1/README.md#Оглавнение)
 ### Какой кейс решаем?
 Нужно написать программу,которрая угадывает число меньше чем за 20 попыток
 **Условия задачи:**
@@ -19,4 +19,4 @@
 **Что практикуем** 
 Учимся работать в IDE и доработку кода
 ## Краткая информация о данных
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/nikita12354322/app/blob/main/project1/README.md#Оглавниние)
